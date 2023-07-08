@@ -1,5 +1,6 @@
 <template>
   <Header />
+  <Main />
 </template>
 
 <style>
